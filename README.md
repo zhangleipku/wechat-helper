@@ -1,4 +1,4 @@
-## Wechart Helper - Chrome plug-in
+## Wechat Helper - Chrome plug-in
 
 1. check who deleted your wechat contact
 
